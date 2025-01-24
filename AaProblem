@@ -1,0 +1,155 @@
+
+
+Implement a program to check if a linked list is a palindrome.
+Write a program to find the missing element in the second array, given two arrays where one is a shuffled version of the other with one element missing.
+Find the second largest element in an array.
+Implement binary search for a sorted array.
+Check if a given tree is a binary search tree (BST).
+Find the second largest element in an array.
+Move all zeros to the end of the array while maintaining the order of non-zero elements.
+
+
+1. Arrays
+Easy:
+
+Find the second largest element in an array.
+Move all zeros to the end of the array while maintaining the order of non-zero elements.
+Rotate an array by k positions.
+Medium:
+4. Find the subarray with the maximum sum (Kadane’s Algorithm).
+5. Count the number of subarrays with a given sum.
+6. Merge overlapping intervals.
+
+Hard:
+7. Find the minimum number of swaps required to sort an array.
+8. Maximum product subarray.
+9. Find the longest subarray with an equal number of 0s and 1s.
+
+2. Strings
+Easy:
+
+Reverse words in a given string.
+Check if one string is a rotation of another.
+Count the frequency of characters in a string.
+Medium:
+4. Find the longest substring without repeating characters.
+5. Write a function to check if two strings are valid rotations of each other.
+6. Find all permutations of a string.
+
+Hard:
+7. Find the minimum window substring that contains all the characters of another string.
+8. Implement wildcard pattern matching.
+9. Longest palindromic substring.
+
+3. Linked Lists
+Easy:
+
+Remove duplicates from a sorted linked list.
+Find the middle element of a linked list.
+Reverse a linked list.
+Medium:
+4. Detect and remove a loop in a linked list.
+5. Merge two sorted linked lists.
+6. Add two numbers represented by linked lists.
+
+Hard:
+7. Clone a linked list with random pointers.
+8. Reverse nodes in k-group chunks.
+9. Flatten a multilevel doubly linked list.
+
+4. Trees
+Easy:
+
+Find the height of a binary tree.
+Perform level-order traversal.
+Check if two binary trees are identical.
+Medium:
+4. Find the lowest common ancestor (LCA) of two nodes in a binary tree.
+5. Serialize and deserialize a binary tree.
+6. Check if a binary tree is a valid Binary Search Tree (BST).
+
+Hard:
+7. Implement a function to recover a BST that has two swapped nodes.
+8. Construct a binary tree from its inorder and preorder traversals.
+9. Find the maximum path sum in a binary tree.
+
+
+
+
+Array Problems
+Find the subarray with the given sum in a non-negative array.
+Implement a function to find the maximum product subarray.
+Rearrange an array such that arr[i] = i if i is present in the array, else arr[i] = -1.
+Find the equilibrium index of an array (index where the sum of elements to the left equals the sum to the right).
+Sort an array of 0s, 1s, and 2s (Dutch National Flag Problem).
+Find the smallest missing positive integer in an array.
+Find all leader elements in an array (elements greater than all elements to their right).
+
+
+String Problems
+Find the longest common prefix among a list of strings.
+Write a program to implement string matching using the Rabin-Karp algorithm.
+Implement a function to perform a basic string compression (e.g., "aabcccccaaa" becomes "a2b1c5a3").
+Check if a given string can be rearranged to form a palindrome.
+Count the number of distinct substrings of a string.
+Implement a function to find the shortest palindrome by adding characters at the start of a string.
+Write a function to find all permutations of a string.
+
+
+Linked List Problems
+Reverse a linked list in groups of k nodes.
+Find the intersection point of two linked lists.
+Detect and remove a loop in a linked list.
+Add two numbers represented as linked lists.
+Flatten a multilevel doubly linked list.
+Merge two sorted linked lists into one sorted list.
+Rotate a linked list to the right by k places.
+
+
+Tree Problems
+Find the diameter of a binary tree.
+Print the boundary traversal of a binary tree.
+Implement a function to serialize and deserialize a binary tree.
+Write a program to find the maximum path sum in a binary tree.
+Convert a binary tree into its mirror.
+Print the vertical order traversal of a binary tree.
+Construct a binary tree from its preorder and inorder traversals.
+
+
+Graph Problems
+Implement Depth First Search (DFS) and Breadth First Search (BFS).
+Find the shortest path in an unweighted graph.
+Check if a graph is bipartite.
+Implement Kruskal’s algorithm for finding the Minimum Spanning Tree.
+Detect a cycle in a directed graph using Kahn’s algorithm.
+Find all strongly connected components (SCCs) in a graph (Tarjan’s Algorithm).
+Solve the "Cheapest Flights Within K Stops" problem using BFS or Dijkstra’s Algorithm.
+
+
+Dynamic Programming Problems
+Solve the "Coin Change" problem: find the minimum number of coins to make a given sum.
+Find the maximum sum of a subsequence with no two adjacent elements.
+Count the number of distinct ways to climb a staircase with steps of 1 or 2.
+Solve the "Longest Palindromic Subsequence" problem.
+Implement a function to find the number of ways to partition an array into k subsets.
+Solve the "Rod Cutting Problem" to maximize profit.
+Write a program to find the number of ways to tile a floor of size n x m using 1 x m tiles.
+
+
+Heap and Priority Queue Problems
+Find the k largest elements in an array.
+Merge k sorted arrays into one sorted array.
+Implement a function to check if a given array represents a min-heap or max-heap.
+Find the frequency of each element in an array and sort elements by frequency.
+Solve the "Top K Frequent Words" problem.
+Write a program to find the median of a stream of numbers.
+
+
+Backtracking Problems
+Solve the "Sudoku Solver" problem.
+Find all possible unique subsets of a set.
+Solve the "Word Search" problem on a grid.
+Write a program to find all unique combinations of numbers that sum up to a target.
+Generate all valid parentheses combinations of length n.
+Solve the "Knight’s Tour Problem".
+Implement a solution to partition a string into all possible palindromic substrings.
